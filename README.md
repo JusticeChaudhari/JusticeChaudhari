@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : mail : sarthakchaudhari401@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm intrested in history, geopolitics and indian politics 
+- ⚡ Fun fact: I'm intrested in history, geopolitics and Indian politics 
 
 <!---
 JusticeChaudhari/JusticeChaudhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
